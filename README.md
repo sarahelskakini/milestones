@@ -9,7 +9,7 @@ The **personal milestones table** outlines key milestones for practical programm
 |------|---------------------------------------------|-----------------------------------------------------------------------------|
 | 1    | Github Account Created                      | https://github.com/sarahelskakini                                              | 
 | 1    | Github Profile Page                         | https://github.com/sarahelskakini/sarahelskakini                                   |
-| 1    | Commit and Push Change from Command Line    | [https://github.com/sarahelskakini/`repo-name`/commit/`commit-nr](https://github.com/sarahelskakini/ppchem/commit/69b8cfd2aaca4e670349963cce8180ac2ffc74f8)`                |
+| 1    | Commit and Push Change from Command Line    |https://github.com/sarahelskakini/ppchem/commit/69b8cfd2aaca4e670349963cce8180ac2ffc74f8                |
 | 1    | Create a New Branch                         | https://github.com/sarahelskakini/`repo-name`/tree/`new-branch-name`            |
 | 1    | Create a conda environment                  | https://github.com/sarahelskakini/`repo-name`/blob/`branch-name`/`env.yml`      |
 | 1    | Fork a Repo                                 | https://github.com/sarahelskakini/practical-programming-in-chemistry-milestones |
